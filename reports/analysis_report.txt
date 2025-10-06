@@ -1,0 +1,34 @@
+========================================
+Analysis Report: Water Usage
+Generated: 2025-10-06 22:16:02
+========================================
+
+Device Statistics:
+------------------
+Water_Meter_1: 171 entries
+  First entry: 2025-10-06 22:01:49
+  Last entry:  2025-10-06 22:16:00
+
+Total Entries:      171
+
+Log File: hospital_data/active_logs/water_usage.log
+
+========================================
+Analysis Report: Heart Rate
+Generated: 2025-10-06 22:16:11
+========================================
+
+Device Statistics:
+------------------
+HR_Monitor_1: 303 entries
+  First entry: 2025-10-06 21:56:00
+  Last entry:  2025-10-06 22:16:11
+
+HR_Monitor_2: 302 entries
+  First entry: 2025-10-06 21:56:02
+  Last entry:  2025-10-06 22:16:09
+
+Total Entries:      605
+
+Log File: hospital_data/active_logs/heart_rate.log
+
