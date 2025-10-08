@@ -5,10 +5,10 @@
 An automated log management system for hospital data that collects real-time patient health metrics and resource usage data, provides controlled log archiving, and generates analytical reports.
 
 ## Features
-- Real-time data collection from simulated medical devices
-- Interactive log archival with user-friendly menu
-- Intelligent analysis with device statistics and timestamps
-- Automated directory organization
+- Real-time data collection from simulated medical devices.
+- Interactive log archival with user-friendly menu.
+- Intelligent analysis with device statistics and timestamps.
+- Automated directory organization.
 
 ## Directory Structure
 hospital_data/
