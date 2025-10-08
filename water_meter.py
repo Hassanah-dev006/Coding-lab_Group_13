@@ -53,4 +53,4 @@ if __name__ == "__main__":
         start_monitoring()
     else:
         print("Usage: python3 water_meter.py start")
-        sys.exit(1)
+       sys.exit(1)
