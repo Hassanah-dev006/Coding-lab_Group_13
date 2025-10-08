@@ -8,7 +8,9 @@ import time
 import random
 import sys
 import os
+
 from datetime import datetime
+
 LOG_FILE = "hospital_data/active_logs/temperature.log"
 
 def ensure_directory():
