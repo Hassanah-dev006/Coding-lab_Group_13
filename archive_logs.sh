@@ -94,7 +94,7 @@ main() {
             4)
                 echo "Exiting archival system."
                 exit 0
-                ;;
+                ;; 
             *)
                 echo "Error: Invalid choice. Please enter 1, 2, 3, or 4."
                 echo ""
@@ -108,4 +108,4 @@ main() {
 }
 
 # Run main function
-main
+main 
